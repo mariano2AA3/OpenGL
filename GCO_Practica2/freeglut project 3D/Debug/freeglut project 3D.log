@@ -1,0 +1,8 @@
+﻿Compilación iniciada a las 27/08/2016 16:21:33.
+     1>Proyecto "F:\1_workspace\OpenGL\GCO_Practica2\freeglut project 3D\freeglut project 3D.vcxproj" en el nodo 2 (Clean destinos).
+       El archivo del proyecto contiene ToolsVersion="12.0". Este conjunto de herramientas falta o es desconocido, en cuyo caso es posible que pueda resolver este problema instalando la versión apropiada de MSBuild. También es posible que, por motivos de directiva, se haya exigido a la compilación que use un valor determinado para ToolsVersion. Se tratará el proyecto como si contuviera ToolsVersion="4.0". Para obtener más información, vea http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Compilación del proyecto terminada "F:\1_workspace\OpenGL\GCO_Practica2\freeglut project 3D\freeglut project 3D.vcxproj" (Clean destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.60
