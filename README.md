@@ -40,11 +40,13 @@ Usado para la creación y optimización del pintado de una escena.
 
 ### Iluminación
 
-Luces focales, direccionales, ambiente, etc.
+Luces focales, direccionales, ambiente, etc. Aquí podemos ver algunas capturas:
 
-![snapshot1](/GCO_Practica2/screenshots/snapshot1.PNG?raw=true "snapshot1")
-![snapshot2](/GCO_Practica2/screenshots/snapshot2.PNG?raw=true "snapshot2")
-![snapshot3](/GCO_Practica2/screenshots/snapshot3.PNG?raw=true "snapshot3")
+![snapshot1](/GCO_Practica2/snapshots/snapshot1.PNG?raw=true "snapshot1")
+
+![snapshot2](/GCO_Practica2/snapshots/snapshot2.PNG?raw=true "snapshot2")
+
+![snapshot3](/GCO_Practica2/snapshots/snapshot3.PNG?raw=true "snapshot3")
 
 ## Autores
 
